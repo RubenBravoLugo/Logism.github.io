@@ -144,3 +144,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
         <img src="https://cdathenry.files.wordpress.com/2016/11/oslcyof.png" height="233" width="233"> </a>
 
+        <a href="https://ibb.co/R7Sys3y"><img src="https://i.ibb.co/vDBYT3Y/2-to-1-selector.png" alt="2-to-1-selector" border="0"></a>
+<a href="https://ibb.co/pZHTTZc"><img src="https://i.ibb.co/sQT44Qn/edge-triggered-D-flip-flop.png" alt="edge-triggered-D-flip-flop" border="0"></a>
+<a href="https://ibb.co/pnDsk8d"><img src="https://i.ibb.co/qxG42fp/Full-adder.png" alt="Full-adder" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/WfCSxsW/Half-adder.png" alt="Half-adder" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload your image</a><br />
+
