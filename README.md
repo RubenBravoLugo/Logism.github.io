@@ -134,12 +134,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Primary P5.js</span></h2>
 
-          <a href="https://rubenbravolugo.github.io/Circledxrawings.github.io/">
+          
         <img src="https://cdathenry.files.wordpress.com/2016/11/oslcyof.png" height="233" width="233"> </a>
 
 
           
           <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">costum P5.js</span></h2>
-          <a href="https://rubenbravolugo.github.io/AXcircledrawing.github.io/">
+         
+
         <img src="https://cdathenry.files.wordpress.com/2016/11/oslcyof.png" height="233" width="233"> </a>
 
