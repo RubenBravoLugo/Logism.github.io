@@ -148,4 +148,4 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 <a href="https://ibb.co/pnDsk8d"><img src="https://i.ibb.co/qxG42fp/Full-adder.png" alt="Full-adder" border="0"></a>
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Half-adder</span></h2>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/WfCSxsW/Half-adder.png" alt="Half-adder" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload your image</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/WfCSxsW/Half-adder.png" alt="Half-adder" border="0"></a> 
