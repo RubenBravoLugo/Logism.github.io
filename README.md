@@ -154,4 +154,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 <a href="https://ibb.co/RYxqtMf"><img src="https://i.ibb.co/jbcSqxm/2-to-1-selector.png" alt="2-to-1-selector" border="0"></a><br /><a target='_blank' href='https://geojsonlint.com/'>g validate</a><br />
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">8 bit adder with sub option</span></h2>
-iframe width="560" height="315" src="https://www.youtube.com/embed/IBpby0prwvg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IBpby0prwvg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">8 bit counter</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dPn-DfUeEMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
