@@ -159,8 +159,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">8 bit counter</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dPn-DfUeEMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Half-adder</span></h2>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/WfCSxsW/Half-adder.png" alt="Half-adder" border="0"></a> 
 
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Latch</span></h2>
